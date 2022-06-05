@@ -1,2 +1,3 @@
-# Data-Science-Internship---LGMVIP
-The Repo contains all the task files during the Internship Programme offered by Let'sGrowMore Virtual Internship Programme
+### Data-Science-Internship---LGMVIP
+#### JUNE 2022
+<bold> ALL TASKS </bold>
