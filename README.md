@@ -1,6 +1,6 @@
 ## Data-Science-Internship--LGMVIP
 ### JUNE 2022
-- ✳️`ALL TASKS:
+- ✳️ `ALL TASKS:
 - `Iris Flowers Classification ML Project`
 - `Stock Market Prediction and Forecasting Using Stacked LSTM`
 - Music Recommendation
