@@ -11,3 +11,4 @@
 - Next Word Prediction
 - Handwritten equation solver using CNN
 - ML Facial recognition detect mood and suggest songs accordingly.
+<font face="Arial" size="20px" color="#FF7A59">Your text here.</font>
