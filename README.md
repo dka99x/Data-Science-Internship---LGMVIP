@@ -20,6 +20,7 @@
 
 #️⃣[`LINK TO THE INTERNSHIP KEYNOTE:`](http://shorturl.at/qrsDF)
 
-*️⃣**GOALS:**
+*️⃣***GOALS:***
+
 - `Complete AT LEAST FOUR TASK from the list of tasks given under the internship program.`
 - `You can do as many tasks as you want for learning & LoR.`
