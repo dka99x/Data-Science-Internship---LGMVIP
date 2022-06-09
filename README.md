@@ -22,6 +22,7 @@
 - JUNE15-JUNE20 ⇒ TASK4 COMPLETE✅
 
 📢JUNE 20 - Submission Form Opens
+
 📢JUNE 30 - Submission Form Closes
 
 #️⃣[`LINK TO THE INTERNSHIP KEYNOTE:`](http://shorturl.at/qrsDF)
