@@ -15,7 +15,7 @@
 #️⃣**SCHEDULE:**
 
 - 📢JUNE 1 - Internship Begins
-- 📢JUNE 20 - Submission Form Opens
+- 📢JUNE 17 - Submission Form Opens
 - 📢JUNE 30 - Submission Form Closes
 
 #️⃣[`LINK TO THE INTERNSHIP KEYNOTE:`](http://shorturl.at/qrsDF)
