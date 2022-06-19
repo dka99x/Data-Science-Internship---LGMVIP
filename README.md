@@ -2,10 +2,10 @@
 ### JUNE 2022
 ✳️`ALL TASKS:`
 - [x] `Iris Flowers Classification ML Project`
-- [x] `Stock Market Prediction and Forecasting Using Stacked LSTM`
+- [ ] Stock Market Prediction and Forecasting Using Stacked LSTM
 - [ ] Music Recommendation
 - [x] `Image to Pencil Sketch with Python`
-- [x] `Exploratory Data Analysis on Dataset-Terrorism`
+- [ ] Exploratory Data Analysis on Dataset-Terrorism
 - [x] `Prediction using Decision Tree Algorithm`
 - [ ] Develop a Neural Network that can read Handwriting
 - [ ] Next Word Prediction
